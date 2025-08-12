@@ -1,0 +1,9 @@
+.completed {
+  text-decoration: line-through;
+  color: gray;
+}
+
+button:hover {
+  background-color: black;
+  color: white;
+}
